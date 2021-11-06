@@ -311,7 +311,7 @@ li{
 /* main end */
 /* section1 */
 .sec-2{
-    background: url('/img/section-bg.jpg') no-repeat center/cover;
+    background: url('../img/section-bg.jpg') no-repeat center/cover;
      height: 560px;
      font-family: 'Raleway';
 }
