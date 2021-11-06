@@ -1,0 +1,28 @@
+:root {
+    --regular: 'FA Regular';
+    --light: 'FA light';
+}
+.fa-reg {
+    font-family: var(--regular);
+}
+.fa-light {
+    font-family: var(--light);
+}
+.fa-reg.plus::before {
+    content: '\f067';
+}
+.fa-reg.minus::before {
+    content: '\f068';
+}
+.fa-reg.search-plus::before {
+    content: '\f00e';
+}
+.fa-reg.cart::before {
+    content: '\f07a';
+}
+.fa-reg.cart::before {
+    content: '\f155';
+}
+.fa-reg.close::before {
+    content: '\f00d';
+}
